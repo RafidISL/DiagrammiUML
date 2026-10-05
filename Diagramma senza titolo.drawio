@@ -1,14 +1,29 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Pagina-1" id="IMXjjjzdL8YnV-uXGo3Q">
-    <mxGraphModel dx="972" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1084" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="E7WL7101weuaXb3IyXfL-5" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="&amp;nbsp;&amp;nbsp;" vertex="1">
-          <mxGeometry height="90" width="50" x="110" y="280" as="geometry" />
-        </mxCell>
         <mxCell id="E7WL7101weuaXb3IyXfL-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="430" width="326" x="210" y="80" as="geometry" />
+          <mxGeometry height="430" width="380" x="210" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cDrnXhddktsvIuDhDnCH-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Registrarsi" vertex="1">
+          <mxGeometry height="85" width="155" x="322.5" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cDrnXhddktsvIuDhDnCH-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="AGENZIA DI LAVORO INTERINALE" vertex="1">
+          <mxGeometry height="30" width="210" x="295" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cDrnXhddktsvIuDhDnCH-5" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Cliente" vertex="1">
+          <mxGeometry height="110" width="60" x="80" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="cDrnXhddktsvIuDhDnCH-13" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Azienda" vertex="1">
+          <mxGeometry height="110" width="60" x="650" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="cDrnXhddktsvIuDhDnCH-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Inserisci richiesta&lt;div&gt;occupazione&lt;/div&gt;" vertex="1">
+          <mxGeometry height="85" width="155" x="322.5" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="cDrnXhddktsvIuDhDnCH-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Inserire Offerta&lt;div&gt;Lavoro&lt;/div&gt;" vertex="1">
+          <mxGeometry height="85" width="155" x="322.5" y="370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
